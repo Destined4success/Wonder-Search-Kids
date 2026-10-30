@@ -1,0 +1,6 @@
+{
+  "name": "WonderSearch Kids",
+  "description": "A fast, kid-safe AI search engine with voice recognition, Robot and Superhero animated voice companions, robust parental controls, and super-admin safety triage.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
